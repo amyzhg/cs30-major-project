@@ -13,7 +13,12 @@ My final project is going to be a monkey type style but with penguin classics wh
   - Meaningful descriptive names
 - **Save progress on book**
   - Local storage 
-- **Typing mechanism**  
+- **Minimalistic look / GUI**  
+  - Margin and center the txt file
+  - Type what you see and see what you type
+  - Add a title to the left
+- **Use a FAVICON**
+- **Highight colour when typed**
 
 
 ## Nice To Have List
@@ -23,3 +28,7 @@ My final project is going to be a monkey type style but with penguin classics wh
 - **Reset button**
   - Resets your progress on the book
 - **Instead of MD files you make different html pages dedictated to ur proposal etc**
+- **Customization**
+  - Font choice
+  - Colour of text colour picker
+  - use ai voice model when you type it says the word?? (maybe?)
