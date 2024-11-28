@@ -1,9 +1,10 @@
 # CS30 Major Project
 
-USE PROJECT GUTENBERG WEBSITE FOR BOOKS!!!!!!!!
+Thank you "Project Gutenberg" for the book txt files. License available with the files or online at
+www.gutenberg.org/license.
 
-## Amy's Final Project
-My final project is going to be a monkey type style but with penguin classics where you would type while being able to read the book
+## Final Project Description
+My final project is a minimalistic GUI with a book given on the screen, and the user gets to type while reading. There will be multiple books and where you left off typing will be saved through local storage.
 
 ## Needs To Have List
 - **Code Quality/Neatness** 
