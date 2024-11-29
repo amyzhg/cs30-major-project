@@ -23,6 +23,8 @@ My final project is a minimalistic GUI with a book given on the screen, and the 
 
 
 ## Nice To Have List
+- **Screen keyboard**
+- **HTML Lobby that allows you to choose from different books ex/ https://entertrained.app/books?page=2 https://www.typelit.io/**
 - **Small WPM calculator** 
 - **Copy and paste ur own documents**       
 - **Multiple books** 
