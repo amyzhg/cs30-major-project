@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background(57, 52, 51);
+  background(196,196,202);
 }
 
 function preload() {

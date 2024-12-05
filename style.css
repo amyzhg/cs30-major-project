@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:500');
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:500'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 html, body {
   margin: 0;
@@ -13,20 +14,20 @@ canvas {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #393433;
-
+  background-color: #D0D1D7;
 }
 
 li, a, button {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 16;
-  color: whitesmoke;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 
 }
 
 header {
+  margin-bottom: -10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -35,6 +36,14 @@ header {
 
 .logo {
   cursor: pointer;
+}
+
+.required {
+  list-style: none;
+  display: inline-block;
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .nav_links {
@@ -55,12 +64,12 @@ header {
 }
 
 .nav_links li a:hover {
-  color:aqua
+  color:#c50b0b
 }
 
 button {
   padding: 9px 25px;
-  background-color:blueviolet ;
+  background-color:#fc0808 ;
   border: none;
   border-radius: 50px;
   cursor: pointer;
@@ -68,5 +77,5 @@ button {
 }
 
 button:hover {
-  background-color: yellow;
+  background-color: #d60909;
 }
