@@ -38,7 +38,10 @@ header {
 }
 
 .nav_links {
+  margin-left: 500px;
+  margin-right: 400px;
   list-style: none;
+  
 }
 
 .nav_links li {
