@@ -14,14 +14,14 @@ canvas {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #D0D1D7;
-}
+  background-color: #70add3;
+} 
 
 li, a, button {
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16;
-  color: rgb(0, 0, 0);
+  color: rgb(40, 117, 158); 
   text-decoration: none;
 
 }
@@ -64,12 +64,12 @@ header {
 }
 
 .nav_links li a:hover {
-  color:#c50b0b
+  color:#003049
 }
 
 button {
   padding: 9px 25px;
-  background-color:#fc0808 ;
+  background-color:#003049 ;
   border: none;
   border-radius: 50px;
   cursor: pointer;
@@ -77,5 +77,5 @@ button {
 }
 
 button:hover {
-  background-color: #d60909;
+  background-color: #003049;
 }

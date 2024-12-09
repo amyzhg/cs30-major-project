@@ -1,21 +1,34 @@
-// 
-// Your Name
-// Date
+// Litertain (title play on lit and entertain)
+// Amy Zhang
+// 12/9/24
 //
 // Extra for Experts:
-// - describe what you did to take this project "above and beyond"
+// - Check proposal
 
 let bookArray = [];
+let game_state;
+
+//use a class to rep all the words
+// class txtFile {
+//   constructor
+// }
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  background(196,196,202);
+  background(	69, 123, 157);
 }
 
 function preload() {
   bookArray.push(loadStrings("assets/The-Great-Gatsby.txt"));
   bookArray.push(loadStrings("assets/Charlottes-Web.txt"));
+}
+
+function typing() {
+  if (game_state === onGame) {
+    // display keyboard + things we need
+    
+  }
 }
