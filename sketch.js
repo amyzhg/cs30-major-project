@@ -29,6 +29,6 @@ function preload() {
 function typing() {
   if (game_state === onGame) {
     // display keyboard + things we need
-    
+    textFont("Montserrat");
   }
 }
